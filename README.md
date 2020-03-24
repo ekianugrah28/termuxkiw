@@ -1,0 +1,2 @@
+# termuxkiw
+Script on termux
